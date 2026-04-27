@@ -24,7 +24,7 @@ People with usernames such as `SxRp9to12`, `CpGooner`, etc. have been noticed wi
 To add even more concern to this situation: all of this behavior was observed on public, easy-to-access lobbies within Among Us' public matchmaker throughout multiple regions.
 
 ## Running the bots yourself
-We made a stripped-down version of the bots called MiniTNT which we published [on GoFile](https://gofile.io/d/Z5Dla2) and on [VirusTotal](https://www.virustotal.com/gui/file/a6aff23407696f8065f5a57c5a8a4452e61c1a77635e3ed5dd05debb245dc57d?nocache=1) for you to download and run yourself. [Discord](https://discord.gg/FWPekPcnqc)
+We made a stripped-down version of the bots called MiniTNT which we published [on GitHub](https://github.com/TNTaddicted/aufiles/releases/latest) and on [VirusTotal](https://www.virustotal.com/gui/file/a6aff23407696f8065f5a57c5a8a4452e61c1a77635e3ed5dd05debb245dc57d?nocache=1) for you to download and run yourself. [Discord](https://discord.gg/FWPekPcnqc)
 
 While this is suspicious (I get your paranoia), we promise this isn't malware, and actively encourage you to run sandboxes, static analysis and disassembles to prove that.
 
