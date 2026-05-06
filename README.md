@@ -33,7 +33,7 @@ However, if you don't feel safe running this (which is fine!), you can also just
 ## What do we want?
 We aren't asking for much. In fact, we only need the **bare minimum**. What we need Innersloth to do is:
 
-- **Add a better reporting system**: Make it easier for players to report inappropriate lobbies **even after they've left the lobby**.
+- **Add a better reporting system**: Make it easier for players to report inappropriate lobbies and players **even after they've left the lobby**.
 - **Completely remove or restrict 4-Player lobbies**: These make it easy for those Daters to hide from regular players and blend into normal game traffic while keeping themselves private after a person joins. We are asking for the minimum player count be higher than **6**.
 - **Volunteer moderation**: There are multiple players **willing to help make Among Us a safer place**. Allowing them to moderate and explore public lobbies would guarantee human moderation and higher accuracy.
 - **Better name filter**: The current Among Us name filter isn't enough to stop inappropriate names as it is easily bypassed with extra letters between banned words. A stricter filter would help stop these names.
