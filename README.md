@@ -1,7 +1,7 @@
 # Among Us dating problem
 We created this repository as a way to **facilitate access to information regarding the Among Us dating situation**.
 
-For **proof** and a **30k record database** of Among Us E-Daters collected by us, check out [AUFiles](https://tntaddict.net/aufiles).
+For **proof** and a **30k record database** of Among Us E-Daters collected by us, check out [AUFiles](https://au.tntaddict.net/).
 
 ![Image about the Among Us dating issue](ISprotest.png)
 
@@ -24,11 +24,7 @@ People with usernames such as `SxRp9to12`, `CpGooner`, etc. have been noticed wi
 To add even more concern to this situation: all of this behavior was observed on public, easy-to-access lobbies within Among Us' public matchmaker throughout multiple regions.
 
 ## Running the bots yourself
-We made a stripped-down version of the bots called MiniTNT which we published [on GitHub](https://github.com/TNTaddicted/aufiles/releases/latest) and on [VirusTotal](https://www.virustotal.com/gui/file/a6aff23407696f8065f5a57c5a8a4452e61c1a77635e3ed5dd05debb245dc57d?nocache=1) for you to download and run yourself. [Discord](https://discord.com/invite/eAp3sqaN5r)
-
-While this is suspicious (I get your paranoia), we promise this isn't malware, and actively encourage you to run sandboxes, static analysis and disassembles to prove that.
-
-However, if you don't feel safe running this (which is fine!), you can also just support this movement and help us get it forward with Innersloth. Word of mouth matters too!
+Innersloth patched the bots.
 
 ## What do we want?
 We aren't asking for much. In fact, we only need the **bare minimum**. What we need Innersloth to do is:
