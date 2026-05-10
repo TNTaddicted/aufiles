@@ -1,7 +1,7 @@
 # Among Us dating problem
 We created this repository as a way to **facilitate access to information regarding the Among Us dating situation**.
 
-For **proof** and a **30k record database** of Among Us E-Daters collected by us, check out [AUFiles](https://au.tntaddict.net/).
+For **proof** and a **43k record database** of Among Us E-Daters collected by us, check out [AUFiles](https://au.tntaddict.net/).
 
 ![Image about the Among Us dating issue](ISprotest.png)
 
