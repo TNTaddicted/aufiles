@@ -1,4 +1,7 @@
 # Among Us dating problem
+
+Discord server if you want to communicate with us: https://discord.gg/antidater
+
 We created this repository as a way to **facilitate access to information regarding the Among Us dating situation**.
 
 For **proof** and a **40k+ record database** of Among Us E-Daters collected by us, check out [AUFiles](https://au.tntaddict.net/).
